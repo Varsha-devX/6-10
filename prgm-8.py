@@ -1,5 +1,6 @@
-prgm-8
-code:
+#prgm-8
+#code:
+#machine learningg
 import numpy as np 
 import pandas as pd 
 from sklearn.datasets import load_iris 
@@ -29,7 +30,7 @@ plt.title("Confusion Matrix")
 plt.show() 
 # 6. Hyperparameter Tuning: GridSearch 
 param_grid = { 
-'n_estimators': [10, 50, 100], 
+'n_estimators': [10, 50, 100], #why we add this 
 'max_depth': [None, 3, 5, 10], 
 'min_samples_split': [2, 4], 
 } 

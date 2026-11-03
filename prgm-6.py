@@ -1,4 +1,4 @@
-prgm-6
+#prgm-6
 #this one of the easiest program in machine learning
 code:
 from sklearn.datasets import fetch_california_housing 
