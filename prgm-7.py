@@ -1,5 +1,6 @@
 prgm-7
-code:
+#during my lab exam this is the tough .
+#code:
 import numpy as np 
 import pandas as pd 
 from sklearn.tree import DecisionTreeClassifier, plot_tree 
