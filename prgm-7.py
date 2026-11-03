@@ -1,4 +1,5 @@
 prgm-7
+#during my lab exam this is the tough .
 code:
 import numpy as np 
 import pandas as pd 
