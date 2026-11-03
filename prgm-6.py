@@ -1,4 +1,5 @@
 prgm-6
+#this one of the easiest program in machine learning
 code:
 from sklearn.datasets import fetch_california_housing 
 from sklearn.model_selection import train_test_split 
